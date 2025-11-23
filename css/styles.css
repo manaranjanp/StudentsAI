@@ -131,6 +131,27 @@ body {
 }
 
 /* ========================================
+   Breadcrumb Navigation
+   ======================================== */
+.breadcrumb-container {
+    margin-bottom: var(--spacing-lg);
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-md);
+}
+
+.breadcrumb-path {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    font-weight: 500;
+}
+
+.breadcrumb-path span {
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+/* ========================================
    Card Grid Layout
    ======================================== */
 .card-grid {
@@ -347,13 +368,14 @@ body {
 }
 
 .flashcard-front {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: #007FFF;
     color: white;
 }
 
 .flashcard-back {
-    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-    color: white;
+    background: white;
+    color: var(--text-primary);
+    border: 3px solid #007FFF;
     transform: rotateY(180deg);
 }
 

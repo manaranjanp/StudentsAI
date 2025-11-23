@@ -65,11 +65,59 @@ function resetHome() {
     AppState.selectedSubject = null;
     AppState.selectedChapter = null;
 
+    document.getElementById('class-selection-container').classList.remove('hidden');
     document.getElementById('subject-selection-container').classList.add('hidden');
     document.getElementById('chapter-selection-container').classList.add('hidden');
     document.getElementById('activity-selection-container').classList.add('hidden');
+    document.getElementById('breadcrumb-container').classList.add('hidden');
 
     showScreen('home-screen');
+}
+
+function updateBreadcrumb() {
+    const breadcrumbContainer = document.getElementById('breadcrumb-container');
+    const breadcrumbPath = document.getElementById('breadcrumb-path');
+
+    let pathParts = [];
+
+    if (AppState.selectedClass) {
+        pathParts.push(`<span>${AppState.selectedClass.name}</span>`);
+    }
+
+    if (AppState.selectedSubject) {
+        pathParts.push(`<span>${AppState.selectedSubject.name}</span>`);
+    }
+
+    if (AppState.selectedChapter) {
+        pathParts.push(`<span>${AppState.selectedChapter.name}</span>`);
+    }
+
+    if (pathParts.length > 0) {
+        breadcrumbPath.innerHTML = pathParts.join(' &gt; ');
+        breadcrumbContainer.classList.remove('hidden');
+    } else {
+        breadcrumbContainer.classList.add('hidden');
+    }
+}
+
+function navigateBack() {
+    if (AppState.selectedChapter) {
+        // Go back from chapter to subject
+        AppState.selectedChapter = null;
+        document.getElementById('chapter-selection-container').classList.add('hidden');
+        document.getElementById('activity-selection-container').classList.add('hidden');
+        document.getElementById('subject-selection-container').classList.remove('hidden');
+        updateBreadcrumb();
+    } else if (AppState.selectedSubject) {
+        // Go back from subject to class
+        AppState.selectedSubject = null;
+        document.getElementById('subject-selection-container').classList.add('hidden');
+        document.getElementById('class-selection-container').classList.remove('hidden');
+        updateBreadcrumb();
+    } else if (AppState.selectedClass) {
+        // Go back from class to home
+        resetHome();
+    }
 }
 
 // ========================================
@@ -113,9 +161,13 @@ function selectClass(classData) {
 
     renderSubjectSelection();
 
+    // Hide class selection, show subject selection
+    document.getElementById('class-selection-container').classList.add('hidden');
     document.getElementById('subject-selection-container').classList.remove('hidden');
     document.getElementById('chapter-selection-container').classList.add('hidden');
     document.getElementById('activity-selection-container').classList.add('hidden');
+
+    updateBreadcrumb();
 }
 
 function renderSubjectSelection() {
@@ -154,8 +206,12 @@ function selectSubject(subject) {
 
     renderChapterSelection();
 
+    // Hide subject selection, show chapter selection
+    document.getElementById('subject-selection-container').classList.add('hidden');
     document.getElementById('chapter-selection-container').classList.remove('hidden');
     document.getElementById('activity-selection-container').classList.add('hidden');
+
+    updateBreadcrumb();
 }
 
 function renderChapterSelection() {
@@ -184,7 +240,11 @@ async function selectChapter(chapter) {
 
     await renderActivitySelection();
 
+    // Hide chapter selection, show activity selection
+    document.getElementById('chapter-selection-container').classList.add('hidden');
     document.getElementById('activity-selection-container').classList.remove('hidden');
+
+    updateBreadcrumb();
 }
 
 async function renderActivitySelection() {
@@ -288,6 +348,12 @@ async function startActivity(activityType, filePath) {
 document.addEventListener('DOMContentLoaded', () => {
     // Load configuration
     loadConfig();
+
+    // Breadcrumb back button
+    const breadcrumbBackBtn = document.getElementById('breadcrumb-back-btn');
+    if (breadcrumbBackBtn) {
+        breadcrumbBackBtn.addEventListener('click', navigateBack);
+    }
 
     // Error screen back button
     const errorBackBtn = document.getElementById('error-back-btn');
