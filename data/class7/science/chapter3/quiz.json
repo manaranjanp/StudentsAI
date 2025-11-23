@@ -1,68 +1,152 @@
 [
-  {
-    "question": "Which of the following is an example of oscillatory motion?",
-    "options": [
-      "A train on a straight bridge",
-      "A car turning a corner",
-      "Motion of a swing",
-      "Earth revolving around the sun"
-    ],
-    "correct": 2,
-    "rationale": "A swing moves to and fro about a fixed point, which is characteristic of **oscillatory motion**. The train moves in a straight line (rectilinear), the car moves in a curve, and the Earth's motion is circular."
-  },
-  {
-    "question": "What is the basic unit of speed in SI system?",
-    "options": [
-      "km/min",
-      "m/min",
-      "km/h",
-      "m/s"
-    ],
-    "correct": 3,
-    "rationale": "The standard scientific unit is **meters per second (m/s)** in the International System of Units (SI). While km/h is commonly used in everyday life, m/s is the SI unit."
-  },
-  {
-    "question": "A car covers 100 km in 2 hours. What is its average speed?",
-    "options": [
-      "25 km/h",
-      "50 km/h",
-      "100 km/h",
-      "200 km/h"
-    ],
-    "correct": 1,
-    "rationale": "Average Speed = Total Distance / Total Time = 100 km / 2 hours = **50 km/h**"
-  },
-  {
-    "question": "What type of motion does a ceiling fan have?",
-    "options": [
-      "Rectilinear motion",
-      "Circular motion",
-      "Oscillatory motion",
-      "Random motion"
-    ],
-    "correct": 1,
-    "rationale": "A ceiling fan rotates about a fixed axis, which is **circular motion**. Each point on the blade moves in a circular path."
-  },
-  {
-    "question": "Which instrument measures distance traveled by a vehicle?",
-    "options": [
-      "Speedometer",
-      "Odometer",
-      "Thermometer",
-      "Barometer"
-    ],
-    "correct": 1,
-    "rationale": "An **odometer** measures the total distance traveled by a vehicle. A speedometer measures instantaneous speed, not distance."
-  },
-  {
-    "question": "If a car moves with uniform speed, which graph correctly shows its motion?",
-    "options": [
-      "Curved distance-time graph",
-      "Horizontal distance-time graph",
-      "Straight line distance-time graph passing through origin",
-      "Vertical distance-time graph"
-    ],
-    "correct": 2,
-    "rationale": "Uniform speed means constant speed, so the distance-time graph is a **straight line passing through the origin**, indicating equal distances covered in equal time intervals."
-  }
-]
+        { 
+            question: "Which of the following is an example of oscillatory motion?", 
+            options: ["A train on a straight bridge", "A car turning a corner", "Motion of a swing", "Earth revolving around the sun"], 
+            correct: 2,
+            rationale: "A swing moves to and fro, which is oscillatory motion."
+        },
+        { 
+            question: "What is the basic unit of speed?", 
+            options: ["km/min", "m/min", "km/h", "m/s"], 
+            correct: 3,
+            rationale: "The standard scientific unit is meters per second (m/s)."
+        },
+        { 
+            question: "A simple pendulum takes 32s to complete 20 oscillations. What is its time period?", 
+            options: ["1.6 s", "1.5 s", "1.2 s", "0.6 s"], 
+            correct: 0,
+            rationale: "Time Period = Total Time / Number of Oscillations = 32 / 20 = 1.6s."
+        },
+        { 
+            question: "Which device measures the distance travelled by a vehicle?", 
+            options: ["Speedometer", "Odometer", "Thermometer", "Barometer"], 
+            correct: 1,
+            rationale: "The odometer measures distance; speedometer measures speed."
+        },
+        { 
+            question: "The graph of an object moving with a constant speed is a:", 
+            options: ["Curved line", "Straight line", "Circle", "Zig-zag line"], 
+            correct: 1,
+            rationale: "Uniform motion results in a linear (straight line) graph."
+        },
+        { 
+            question: "Which of these is NOT a unit of time?", 
+            options: ["Second", "Hour", "Light year", "Year"], 
+            correct: 2,
+            rationale: "A light year is a measure of distance, not time."
+        },
+        { 
+            question: "If a car travels 100 km in 2 hours, what is its speed?", 
+            options: ["200 km/h", "50 km/h", "100 km/h", "20 km/h"], 
+            correct: 1,
+            rationale: "Speed = Distance / Time = 100 / 2 = 50 km/h."
+        },
+        { 
+            question: "The metallic ball in a pendulum is called the:", 
+            options: ["Weight", "Bob", "Mass", "Stone"], 
+            correct: 1,
+            rationale: "The suspended weight is specifically called the Bob."
+        },
+        { 
+            question: "What type of motion is the beating of a drum?", 
+            options: ["Periodic", "Circular", "Rectilinear", "None of these"], 
+            correct: 0,
+            rationale: "It repeats at regular intervals, making it periodic."
+        },
+        { 
+            question: "18 km/h is equal to:", 
+            options: ["10 m/s", "5 m/s", "15 m/s", "20 m/s"], 
+            correct: 1,
+            rationale: "18 × (5/18) = 5 m/s."
+        },
+        { 
+            question: "Which scientist discovered the periodic nature of the pendulum?", 
+            options: ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Thomas Edison"], 
+            correct: 2,
+            rationale: "Galileo noticed the consistent time period while watching a chandelier swing."
+        },
+        { 
+            question: "A horizontal line on a distance-time graph implies the object is:", 
+            options: ["Moving with uniform speed", "Moving with non-uniform speed", "At rest", "Accelerating"], 
+            correct: 2,
+            rationale: "If distance doesn't change as time passes, the object is stationary."
+        },
+        { 
+            question: "The time taken for one complete oscillation is called:", 
+            options: ["Frequency", "Time Period", "Amplitude", "Speed"], 
+            correct: 1,
+            rationale: "This is the definition of Time Period."
+        },
+        { 
+            question: "Which of these is an ancient time-measuring device?", 
+            options: ["Quartz watch", "Sand clock", "Digital clock", "Atomic clock"], 
+            correct: 1,
+            rationale: "Sand clocks, sundials, and water clocks were used before mechanical clocks."
+        },
+        { 
+            question: "If speed is constant, distance is directly proportional to:", 
+            options: ["Mass", "Time", "Gravity", "Volume"], 
+            correct: 1,
+            rationale: "Longer time = Longer distance covered (D = S × T)."
+        },
+        { 
+            question: "What is the speed of a rocket launching satellites?", 
+            options: ["8 km/h", "8 m/s", "8 km/s", "800 km/h"], 
+            correct: 2,
+            rationale: "Rockets need high speeds (approx 8 km/s) to escape Earth's gravity."
+        },
+        { 
+            question: "The symbol for the unit of speed is written as:", 
+            options: ["m/s", "m/secs", "ms", "m per s"], 
+            correct: 0,
+            rationale: "Symbols are written in singular without 'per' written out usually (m/s)."
+        },
+        { 
+            question: "A car moves 15 km in 15 minutes. Its speed in km/h is:", 
+            options: ["15 km/h", "60 km/h", "30 km/h", "1 km/h"], 
+            correct: 1,
+            rationale: "15 min is 1/4th of an hour. Speed = 15km / 0.25h = 60 km/h."
+        },
+        { 
+            question: "The X-axis on a distance-time graph usually represents:", 
+            options: ["Distance", "Speed", "Time", "Acceleration"], 
+            correct: 2,
+            rationale: "Time is the independent variable, so it goes on the X-axis."
+        },
+        { 
+            question: "Which clock is the most accurate among these?", 
+            options: ["Sundial", "Water clock", "Quartz clock", "Pendulum clock"], 
+            correct: 2,
+            rationale: "Quartz clocks are more accurate than mechanical pendulum clocks."
+        },
+        { 
+            question: "One microsecond is:", 
+            options: ["One millionth of a second", "One billionth of a second", "One thousandth of a second", "One hundredth of a second"], 
+            correct: 0,
+            rationale: "Micro means 10^-6 (millionth)."
+        },
+        { 
+            question: "Motion of the hands of a clock is:", 
+            options: ["Rectilinear", "Circular", "Oscillatory", "Random"], 
+            correct: 1,
+            rationale: "The tip of the hand moves in a circle."
+        },
+        { 
+            question: "Which motion is NOT periodic?", 
+            options: ["Heartbeat", "Rotation of earth", "A car moving on a straight road", "Pendulum"], 
+            correct: 2,
+            rationale: "A car's motion doesn't necessarily repeat at fixed intervals."
+        },
+        { 
+            question: "Distance = Speed x _____", 
+            options: ["Mass", "Time", "Acceleration", "Force"], 
+            correct: 1,
+            rationale: "This is the fundamental distance formula."
+        },
+        { 
+            question: "The time from one new moon to the next is approximately a:", 
+            options: ["Day", "Week", "Month", "Year"], 
+            correct: 2,
+            rationale: "The lunar cycle defines a month."
+        }
+    ]

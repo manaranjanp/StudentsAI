@@ -1,34 +1,27 @@
 [
-  {
-    "q": "What is motion along a straight line called?",
-    "a": "**Rectilinear Motion** - Motion along a straight line (e.g., a car on a straight road)"
-  },
-  {
-    "q": "What type of motion is the Earth around the Sun?",
-    "a": "**Circular Motion** - The Earth revolves around the Sun in a nearly circular path"
-  },
-  {
-    "q": "Define motion that repeats after a fixed time interval.",
-    "a": "**Periodic or Oscillatory Motion** - Motion that repeats itself after regular intervals (e.g., pendulum, swing)"
-  },
-  {
-    "q": "What is the SI unit of speed?",
-    "a": "**Meters per second (m/s)** - The standard unit for measuring speed in the International System of Units"
-  },
-  {
-    "q": "What does a speedometer measure?",
-    "a": "A speedometer measures the **instantaneous speed** of a vehicle at any given moment"
-  },
-  {
-    "q": "What is uniform motion?",
-    "a": "**Uniform motion** is when an object covers equal distances in equal intervals of time, regardless of how small the time intervals are"
-  },
-  {
-    "q": "What is non-uniform motion?",
-    "a": "**Non-uniform motion** is when an object covers unequal distances in equal intervals of time"
-  },
-  {
-    "q": "How do you calculate average speed?",
-    "a": "Average Speed = **Total Distance / Total Time**\n\nFormula: v_avg = d/t"
-  }
-]
+        { q: "What is motion along a straight line called?", a: "Rectilinear Motion (e.g., a car on a straight road)" },
+        { q: "What type of motion is the Earth around the Sun?", a: "Circular Motion" },
+        { q: "Define motion that repeats after a fixed time interval.", a: "Periodic or Oscillatory Motion" },
+        { q: "How do we define the speed of an object?", a: "Total distance covered divided by the total time taken." },
+        { q: "What is the mathematical formula for calculating speed?", a: "Speed = Distance / Time" },
+        { q: "What is motion with constant speed along a straight line?", a: "Uniform Motion" },
+        { q: "What is motion where speed keeps changing along a straight line?", a: "Non-Uniform Motion" },
+        { q: "What is the standard basic unit for measuring speed?", a: "meter per second (m/s)" },
+        { q: "What is the standard basic unit of time?", a: "second (s)" },
+        { q: "What device consists of a bob suspended from a rigid stand?", a: "A Simple Pendulum" },
+        { q: "What is the metallic ball of a pendulum called?", a: "The Bob" },
+        { q: "What is one complete to-and-fro movement of a pendulum?", a: "One Oscillation" },
+        { q: "What is the time taken to complete one oscillation?", a: "Time Period" },
+        { q: "Which instrument measures the total distance moved by a vehicle?", a: "Odometer" },
+        { q: "Which device records speed directly in km/h?", a: "Speedometer" },
+        { q: "What is the shape of a distance-time graph for constant speed?", a: "A straight line" },
+        { q: "What does a line parallel to the time axis represent?", a: "The object is stationary (at rest)" },
+        { q: "Name an ancient device using shadows to tell time.", a: "Sundial" },
+        { q: "What are modern clocks with electric circuits and cells called?", a: "Quartz Clocks" },
+        { q: "What is the term for one millionth of a second?", a: "Microsecond" },
+        { q: "What is the term for one billionth of a second?", a: "Nanosecond" },
+        { q: "What is the formula to calculate Distance?", a: "Distance = Speed × Time" },
+        { q: "What is the formula to calculate Time?", a: "Time = Distance / Speed" },
+        { q: "How do you convert km/h to m/s?", a: "Multiply by 5/18" },
+        { q: "Who discovered that a pendulum's time period is constant?", a: "Galileo Galilei" }
+    ]
