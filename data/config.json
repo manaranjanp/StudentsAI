@@ -1,0 +1,56 @@
+{
+  "classes": [
+    {
+      "id": "class7",
+      "name": "Class 7",
+      "subjects": [
+        {
+          "id": "math",
+          "name": "Mathematics",
+          "chapters": [
+            {
+              "id": "chapter1",
+              "name": "Chapter 1: Integers"
+            }
+          ]
+        },
+        {
+          "id": "science",
+          "name": "Science",
+          "chapters": [
+            {
+              "id": "chapter3",
+              "name": "Chapter 3: Motion and Time"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "class8",
+      "name": "Class 8",
+      "subjects": [
+        {
+          "id": "math",
+          "name": "Mathematics",
+          "chapters": [
+            {
+              "id": "chapter1",
+              "name": "Chapter 1: Rational Numbers"
+            }
+          ]
+        },
+        {
+          "id": "science",
+          "name": "Science",
+          "chapters": [
+            {
+              "id": "chapter2",
+              "name": "Chapter 2: Force and Pressure"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

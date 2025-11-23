@@ -1,0 +1,14 @@
+[
+  {
+    "problem": "Find: (3/4) + (5/6)",
+    "solution": "**Step 1:** Find the LCM of denominators 4 and 6\n\nLCM(4, 6) = 12\n\n**Step 2:** Convert to equivalent fractions\n\n3/4 = (3 × 3)/(4 × 3) = 9/12\n\n5/6 = (5 × 2)/(6 × 2) = 10/12\n\n**Step 3:** Add the fractions\n\n9/12 + 10/12 = 19/12\n\n**Answer: 19/12 or 1 7/12**"
+  },
+  {
+    "problem": "Verify that -5/7 is the additive inverse of 5/7",
+    "solution": "**To verify:** We need to show that (5/7) + (-5/7) = 0\n\n**Solution:**\n\n(5/7) + (-5/7) = (5/7) - (5/7)\n\n= (5 - 5)/7\n\n= 0/7\n\n= **0**\n\n**Since the sum equals 0, -5/7 is indeed the additive inverse of 5/7** ✓"
+  },
+  {
+    "problem": "Find the product: (-2/3) × (9/4) × (-5/6)",
+    "solution": "**Step 1:** Multiply the numerators and denominators\n\nNumerator: (-2) × 9 × (-5) = (-2) × (-45) = 90\n\nDenominator: 3 × 4 × 6 = 72\n\n**Step 2:** Simplify the fraction\n\n90/72 = (90 ÷ 18)/(72 ÷ 18) = 5/4\n\n**Answer: 5/4 or 1.25**\n\n*Note: Two negative numbers give a positive product*"
+  }
+]

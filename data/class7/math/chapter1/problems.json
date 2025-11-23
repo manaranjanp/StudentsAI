@@ -1,0 +1,18 @@
+[
+  {
+    "problem": "Evaluate: (-15) + 23 + (-8) + 10",
+    "solution": "**Step 1:** Group positive and negative integers separately\n\nPositive integers: 23 + 10 = 33\n\nNegative integers: (-15) + (-8) = -23\n\n**Step 2:** Add the results\n\n33 + (-23) = 33 - 23 = **10**\n\n**Answer: 10**"
+  },
+  {
+    "problem": "A submarine was at a depth of 300 m below sea level. It ascends 125 m and then descends 75 m. At what depth is the submarine now?",
+    "solution": "**Given:**\n- Initial depth: -300 m (below sea level is negative)\n- Ascends: +125 m (going up is positive)\n- Descends: -75 m (going down is negative)\n\n**Solution:**\n\nFinal depth = -300 + 125 + (-75)\n\n= -300 + 125 - 75\n\n= -300 + 50\n\n= **-250 m**\n\n**Answer: The submarine is at 250 m below sea level**"
+  },
+  {
+    "problem": "Evaluate: (-5) × 4 × (-3) × (-2)",
+    "solution": "**Method 1:** Multiply step by step\n\n(-5) × 4 = -20\n\n(-20) × (-3) = 60 (negative × negative = positive)\n\n60 × (-2) = **-120**\n\n**Method 2:** Count negative signs\n\nProduct of absolute values: 5 × 4 × 3 × 2 = 120\n\nNumber of negative signs: 3 (odd)\n\nSince there's an odd number of negative signs, the result is negative.\n\n**Answer: -120**"
+  },
+  {
+    "problem": "Verify the distributive property: 7 × [9 + (-5)]",
+    "solution": "**Left side:** 7 × [9 + (-5)]\n\n= 7 × [9 - 5]\n\n= 7 × 4\n\n= **28**\n\n**Right side (using distributive property):** (7 × 9) + [7 × (-5)]\n\n= 63 + (-35)\n\n= 63 - 35\n\n= **28**\n\n**Since both sides equal 28, the distributive property is verified: a × (b + c) = (a × b) + (a × c)**"
+  }
+]

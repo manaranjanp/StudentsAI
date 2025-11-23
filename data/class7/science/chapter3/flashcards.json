@@ -1,0 +1,34 @@
+[
+  {
+    "q": "What is motion along a straight line called?",
+    "a": "**Rectilinear Motion** - Motion along a straight line (e.g., a car on a straight road)"
+  },
+  {
+    "q": "What type of motion is the Earth around the Sun?",
+    "a": "**Circular Motion** - The Earth revolves around the Sun in a nearly circular path"
+  },
+  {
+    "q": "Define motion that repeats after a fixed time interval.",
+    "a": "**Periodic or Oscillatory Motion** - Motion that repeats itself after regular intervals (e.g., pendulum, swing)"
+  },
+  {
+    "q": "What is the SI unit of speed?",
+    "a": "**Meters per second (m/s)** - The standard unit for measuring speed in the International System of Units"
+  },
+  {
+    "q": "What does a speedometer measure?",
+    "a": "A speedometer measures the **instantaneous speed** of a vehicle at any given moment"
+  },
+  {
+    "q": "What is uniform motion?",
+    "a": "**Uniform motion** is when an object covers equal distances in equal intervals of time, regardless of how small the time intervals are"
+  },
+  {
+    "q": "What is non-uniform motion?",
+    "a": "**Non-uniform motion** is when an object covers unequal distances in equal intervals of time"
+  },
+  {
+    "q": "How do you calculate average speed?",
+    "a": "Average Speed = **Total Distance / Total Time**\n\nFormula: v_avg = d/t"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Which of the following is an example of oscillatory motion?",
+    "options": [
+      "A train on a straight bridge",
+      "A car turning a corner",
+      "Motion of a swing",
+      "Earth revolving around the sun"
+    ],
+    "correct": 2,
+    "rationale": "A swing moves to and fro about a fixed point, which is characteristic of **oscillatory motion**. The train moves in a straight line (rectilinear), the car moves in a curve, and the Earth's motion is circular."
+  },
+  {
+    "question": "What is the basic unit of speed in SI system?",
+    "options": [
+      "km/min",
+      "m/min",
+      "km/h",
+      "m/s"
+    ],
+    "correct": 3,
+    "rationale": "The standard scientific unit is **meters per second (m/s)** in the International System of Units (SI). While km/h is commonly used in everyday life, m/s is the SI unit."
+  },
+  {
+    "question": "A car covers 100 km in 2 hours. What is its average speed?",
+    "options": [
+      "25 km/h",
+      "50 km/h",
+      "100 km/h",
+      "200 km/h"
+    ],
+    "correct": 1,
+    "rationale": "Average Speed = Total Distance / Total Time = 100 km / 2 hours = **50 km/h**"
+  },
+  {
+    "question": "What type of motion does a ceiling fan have?",
+    "options": [
+      "Rectilinear motion",
+      "Circular motion",
+      "Oscillatory motion",
+      "Random motion"
+    ],
+    "correct": 1,
+    "rationale": "A ceiling fan rotates about a fixed axis, which is **circular motion**. Each point on the blade moves in a circular path."
+  },
+  {
+    "question": "Which instrument measures distance traveled by a vehicle?",
+    "options": [
+      "Speedometer",
+      "Odometer",
+      "Thermometer",
+      "Barometer"
+    ],
+    "correct": 1,
+    "rationale": "An **odometer** measures the total distance traveled by a vehicle. A speedometer measures instantaneous speed, not distance."
+  },
+  {
+    "question": "If a car moves with uniform speed, which graph correctly shows its motion?",
+    "options": [
+      "Curved distance-time graph",
+      "Horizontal distance-time graph",
+      "Straight line distance-time graph passing through origin",
+      "Vertical distance-time graph"
+    ],
+    "correct": 2,
+    "rationale": "Uniform speed means constant speed, so the distance-time graph is a **straight line passing through the origin**, indicating equal distances covered in equal time intervals."
+  }
+]

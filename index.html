@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Student Learning & Revision App - Interactive flashcards, quizzes, and problems for Class 7-10">
+    <title>Student Learning & Revision App</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div id="app">
+        <!-- Header -->
+        <header class="app-header">
+            <div class="container">
+                <h1 class="app-title">📚 Student Learning Hub</h1>
+                <p class="app-subtitle">Master Your Studies with Interactive Learning</p>
+            </div>
+        </header>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <div class="container">
+                <!-- Home Screen: Class & Subject Selection -->
+                <div id="home-screen" class="screen active">
+                    <div class="section-header">
+                        <h2>Select Your Class</h2>
+                    </div>
+                    <div id="class-selection" class="card-grid">
+                        <!-- Classes will be dynamically loaded here -->
+                    </div>
+
+                    <div id="subject-selection-container" class="hidden">
+                        <div class="section-header">
+                            <h2>Select Your Subject</h2>
+                        </div>
+                        <div id="subject-selection" class="card-grid">
+                            <!-- Subjects will be dynamically loaded here -->
+                        </div>
+                    </div>
+
+                    <div id="chapter-selection-container" class="hidden">
+                        <div class="section-header">
+                            <h2>Select Chapter</h2>
+                        </div>
+                        <div id="chapter-selection" class="card-grid">
+                            <!-- Chapters will be dynamically loaded here -->
+                        </div>
+                    </div>
+
+                    <div id="activity-selection-container" class="hidden">
+                        <div class="section-header">
+                            <h2>Choose Learning Activity</h2>
+                        </div>
+                        <div id="activity-selection" class="activity-grid">
+                            <!-- Activities will be dynamically loaded here -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Flashcards Screen -->
+                <div id="flashcards-screen" class="screen">
+                    <div class="activity-header">
+                        <button id="flashcard-back-btn" class="btn btn-secondary">← Back</button>
+                        <h2>Flashcards</h2>
+                        <div class="card-counter">
+                            <span id="flashcard-current">0</span> / <span id="flashcard-total">0</span>
+                        </div>
+                    </div>
+
+                    <div class="flashcard-container">
+                        <div id="flashcard" class="flashcard">
+                            <div class="flashcard-inner">
+                                <div class="flashcard-front">
+                                    <div class="flashcard-content" id="flashcard-question"></div>
+                                </div>
+                                <div class="flashcard-back">
+                                    <div class="flashcard-content" id="flashcard-answer"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="flashcard-controls">
+                        <button id="flashcard-flip-btn" class="btn btn-primary">Flip Card</button>
+                        <button id="flashcard-next-btn" class="btn btn-primary">Next Card</button>
+                        <button id="flashcard-shuffle-btn" class="btn btn-secondary">Shuffle</button>
+                    </div>
+                </div>
+
+                <!-- Quiz Screen -->
+                <div id="quiz-screen" class="screen">
+                    <div class="activity-header">
+                        <button id="quiz-back-btn" class="btn btn-secondary">← Back</button>
+                        <h2>Quiz</h2>
+                        <div class="quiz-score">
+                            Score: <span id="quiz-score">0</span> / <span id="quiz-total">0</span>
+                        </div>
+                    </div>
+
+                    <div id="quiz-question-container" class="quiz-container">
+                        <div class="question-header">
+                            <h3>Question <span id="quiz-current">1</span> of <span id="quiz-questions-total">0</span></h3>
+                        </div>
+
+                        <div class="question-text" id="quiz-question"></div>
+
+                        <div class="options-container" id="quiz-options">
+                            <!-- Options will be dynamically loaded here -->
+                        </div>
+
+                        <button id="quiz-submit-btn" class="btn btn-primary">Submit Answer</button>
+
+                        <div id="quiz-feedback" class="quiz-feedback hidden">
+                            <div id="quiz-feedback-message" class="feedback-message"></div>
+                            <div id="quiz-rationale" class="rationale"></div>
+                            <button id="quiz-next-btn" class="btn btn-primary">Next Question</button>
+                        </div>
+                    </div>
+
+                    <div id="quiz-complete" class="quiz-complete hidden">
+                        <h2>Quiz Complete!</h2>
+                        <div class="final-score">
+                            <p>Your Score: <span id="final-score">0</span> / <span id="final-total">0</span></p>
+                            <p class="percentage">(<span id="final-percentage">0</span>%)</p>
+                        </div>
+                        <button id="quiz-restart-btn" class="btn btn-primary">Restart Quiz</button>
+                    </div>
+                </div>
+
+                <!-- Problems Screen -->
+                <div id="problems-screen" class="screen">
+                    <div class="activity-header">
+                        <button id="problems-back-btn" class="btn btn-secondary">← Back</button>
+                        <h2>Practice Problems</h2>
+                        <div class="problem-counter">
+                            <span id="problem-current">0</span> / <span id="problem-total">0</span>
+                        </div>
+                    </div>
+
+                    <div class="problem-container">
+                        <div class="problem-card">
+                            <div class="problem-header">
+                                <h3>Problem <span id="problem-number">1</span></h3>
+                            </div>
+                            <div class="problem-text" id="problem-statement"></div>
+
+                            <button id="problem-show-solution-btn" class="btn btn-primary">Show Solution</button>
+
+                            <div id="problem-solution" class="problem-solution hidden">
+                                <div class="solution-header">
+                                    <h4>Solution:</h4>
+                                </div>
+                                <div class="solution-text" id="problem-solution-text"></div>
+                            </div>
+                        </div>
+
+                        <div class="problem-controls">
+                            <button id="problem-prev-btn" class="btn btn-secondary">← Previous</button>
+                            <button id="problem-next-btn" class="btn btn-primary">Next →</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Error Screen -->
+                <div id="error-screen" class="screen error-screen hidden">
+                    <div class="error-content">
+                        <div class="error-icon">⚠️</div>
+                        <h2>Oops!</h2>
+                        <p id="error-message">Something went wrong.</p>
+                        <button id="error-back-btn" class="btn btn-primary">Go Back</button>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="app-footer">
+            <div class="container">
+                <p>&copy; 2025 Student Learning Hub. All rights reserved.</p>
+            </div>
+        </footer>
+    </div>
+
+    <!-- JavaScript Modules -->
+    <script src="js/app.js"></script>
+    <script src="js/flashcards.js"></script>
+    <script src="js/quiz.js"></script>
+    <script src="js/problems.js"></script>
+</body>
+</html>
