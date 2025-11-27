@@ -162,4 +162,21 @@
     "rationale": "Xylem transports water upward."
   },
   {
-    "question": "The liquid part of b
+    "question": "The liquid part of blood is called:",
+    "options": ["Plasma", "Serum", "Platelet", "Haemoglobin"],
+    "correct": 0,
+    "rationale": "Plasma carries cells and dissolved substances."
+  },
+  {
+    "question": "Which organ pumps blood continuously?",
+    "options": ["Kidney", "Heart", "Liver", "Lungs"],
+    "correct": 1,
+    "rationale": "Heart works nonstop as a pump."
+  },
+  {
+    "question": "Which structure in leaves controls opening and closing of stomata?",
+    "options": ["Root hair", "Guard cells", "Phloem", "Cuticle"],
+    "correct": 1,
+    "rationale": "Guard cells regulate stomatal opening."
+  }
+]
