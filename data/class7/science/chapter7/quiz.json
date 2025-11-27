@@ -1,0 +1,165 @@
+[
+  {
+    "question": "Which component of blood gives it a red colour?",
+    "options": ["Plasma", "Platelets", "Haemoglobin", "WBC"],
+    "correct": 2,
+    "rationale": "Haemoglobin is a red pigment in RBCs."
+  },
+  {
+    "question": "Which blood vessels have thick elastic walls?",
+    "options": ["Veins", "Arteries", "Capillaries", "All blood vessels"],
+    "correct": 1,
+    "rationale": "Arteries carry blood at high pressure."
+  },
+  {
+    "question": "Pulse is felt due to the movement of blood in the:",
+    "options": ["Veins", "Capillaries", "Arteries", "Heart"],
+    "correct": 2,
+    "rationale": "Pulse is the throbbing of arteries."
+  },
+  {
+    "question": "Which chamber of the heart receives blood from the body?",
+    "options": ["Left atrium", "Right atrium", "Left ventricle", "Right ventricle"],
+    "correct": 1,
+    "rationale": "The right atrium receives deoxygenated blood."
+  },
+  {
+    "question": "What connects arteries and veins?",
+    "options": ["Alveoli", "Capillaries", "Platelets", "Tissues"],
+    "correct": 1,
+    "rationale": "Capillaries form a network between arteries and veins."
+  },
+  {
+    "question": "Which of these helps in blood clotting?",
+    "options": ["Plasma", "RBC", "WBC", "Platelets"],
+    "correct": 3,
+    "rationale": "Platelets form clots to stop bleeding."
+  },
+  {
+    "question": "The normal heart rate of an adult is:",
+    "options": ["20–30", "50–60", "70–80", "100–110"],
+    "correct": 2,
+    "rationale": "Human adults normally have 72–80 beats per minute."
+  },
+  {
+    "question": "What is excreted by birds and lizards?",
+    "options": ["Urea", "Ammonia", "Uric acid", "Water"],
+    "correct": 2,
+    "rationale": "They excrete uric acid in semi-solid form."
+  },
+  {
+    "question": "Which organ stores urine?",
+    "options": ["Kidney", "Ureter", "Urinary bladder", "Heart"],
+    "correct": 2,
+    "rationale": "The bladder stores urine before removal."
+  },
+  {
+    "question": "The process of removing waste from the body is known as:",
+    "options": ["Digestion", "Excretion", "Respiration", "Absorption"],
+    "correct": 1,
+    "rationale": "Excretion eliminates metabolic wastes."
+  },
+  {
+    "question": "Which tissue transports water in plants?",
+    "options": ["Phloem", "Xylem", "Stomata", "Cambium"],
+    "correct": 1,
+    "rationale": "Xylem moves water from roots to leaves."
+  },
+  {
+    "question": "Food in plants is transported through:",
+    "options": ["Xylem", "Phloem", "Root hairs", "Stem pores"],
+    "correct": 1,
+    "rationale": "Phloem carries prepared food."
+  },
+  {
+    "question": "Which structure controls water loss from leaves?",
+    "options": ["Chloroplast", "Veins", "Stomata", "Root hair"],
+    "correct": 2,
+    "rationale": "Stomata regulate transpiration."
+  },
+  {
+    "question": "What generates suction pull in tall trees?",
+    "options": ["Photosynthesis", "Transpiration", "Root pressure", "Respiration"],
+    "correct": 1,
+    "rationale": "Transpiration creates upward pull."
+  },
+  {
+    "question": "Which blood cells fight infections?",
+    "options": ["RBC", "WBC", "Platelets", "Plasma"],
+    "correct": 1,
+    "rationale": "WBCs defend the body against germs."
+  },
+  {
+    "question": "Urine mainly contains:",
+    "options": ["Blood", "Urea, water, and salts", "Only water", "Glucose"],
+    "correct": 1,
+    "rationale": "Urine is 95% water and contains urea and salts."
+  },
+  {
+    "question": "Which organ filters waste from blood?",
+    "options": ["Lungs", "Heart", "Kidneys", "Liver"],
+    "correct": 2,
+    "rationale": "Kidneys remove urea and other wastes."
+  },
+  {
+    "question": "What is the function of root hairs?",
+    "options": ["Food transport", "Water absorption", "Seed production", "Gas exchange"],
+    "correct": 1,
+    "rationale": "Root hairs absorb water and minerals."
+  },
+  {
+    "question": "Which process cools the plant?",
+    "options": ["Photosynthesis", "Transpiration", "Respiration", "Absorption"],
+    "correct": 1,
+    "rationale": "Water evaporation during transpiration cools the plant."
+  },
+  {
+    "question": "The heart acts as a:",
+    "options": ["Filter", "Pump", "Gland", "Valve"],
+    "correct": 1,
+    "rationale": "Heart pumps blood throughout the body."
+  },
+  {
+    "question": "Which of these carries oxygen-rich blood?",
+    "options": ["Veins", "Arteries", "Capillaries", "None"],
+    "correct": 1,
+    "rationale": "Arteries usually carry oxygen-rich blood."
+  },
+  {
+    "question": "The rhythmic contraction of the heart is called:",
+    "options": ["Pulse", "Heartbeat", "Breathing", "Flow"],
+    "correct": 1,
+    "rationale": "Heartbeat is caused by rhythmic contraction and relaxation."
+  },
+  {
+    "question": "Which plant tissue stores and transports food?",
+    "options": ["Xylem", "Phloem", "Cambium", "Cuticle"],
+    "correct": 1,
+    "rationale": "Phloem distributes food from leaves."
+  },
+  {
+    "question": "Which process releases water vapour through leaf stomata?",
+    "options": ["Absorption", "Transpiration", "Excretion", "Respiration"],
+    "correct": 1,
+    "rationale": "Transpiration releases excess water."
+  },
+  {
+    "question": "Fish excrete waste in the form of:",
+    "options": ["Urea", "Uric acid", "Ammonia", "Carbon dioxide"],
+    "correct": 2,
+    "rationale": "Ammonia dissolves easily in water."
+  },
+  {
+    "question": "Which tube carries urine from kidney to bladder?",
+    "options": ["Aorta", "Vena cava", "Ureter", "Urethra"],
+    "correct": 2,
+    "rationale": "Ureters transport urine to the bladder."
+  },
+  {
+    "question": "Water reaches leaves in plants through:",
+    "options": ["Root hairs", "Xylem", "Phloem", "Cuticle"],
+    "correct": 1,
+    "rationale": "Xylem transports water upward."
+  },
+  {
+    "question": "The liquid part of b
