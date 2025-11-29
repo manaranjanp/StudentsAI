@@ -1,0 +1,176 @@
+[
+  {
+    "question": "Why are forests called green lungs?",
+    "options": ["They release oxygen", "They store rainwater", "They provide medicines", "They are green in colour"],
+    "correct": 0,
+    "rationale": "Forests release large amounts of oxygen during photosynthesis."
+  },
+  {
+    "question": "Which forms the uppermost layer of vegetation in the forest?",
+    "options": ["Herbs", "Shrubs", "Canopy", "Crown"],
+    "correct": 2,
+    "rationale": "The canopy is formed by the branches of tall trees."
+  },
+  {
+    "question": "Humus is formed by:",
+    "options": ["Carnivores", "Herbivores", "Decomposers", "Shrubs"],
+    "correct": 2,
+    "rationale": "Decomposers break down dead matter to form humus."
+  },
+  {
+    "question": "Which of the following is NOT a forest product?",
+    "options": ["Gum", "Sealing wax", "Plywood", "Kerosene"],
+    "correct": 3,
+    "rationale": "Kerosene is not obtained from forests."
+  },
+  {
+    "question": "What prevents soil erosion in forests?",
+    "options": ["Animals", "Roots of trees", "Rain", "Wind"],
+    "correct": 1,
+    "rationale": "Roots bind the soil, preventing erosion."
+  },
+  {
+    "question": "Which layer contains herbs?",
+    "options": ["Understorey", "Canopy", "Forest floor", "Lowest vegetation layer"],
+    "correct": 3,
+    "rationale": "Herbs grow at the lowest layer."
+  },
+  {
+    "question": "Decomposers include:",
+    "options": ["Elephants and deer", "Insects and fungi", "Birds and reptiles", "Shrubs and bushes"],
+    "correct": 1,
+    "rationale": "Insects and fungi break down dead matter."
+  },
+  {
+    "question": "Forests help in preventing floods by:",
+    "options": ["Releasing oxygen", "Absorbing rainwater", "Producing fruits", "Providing shelter"],
+    "correct": 1,
+    "rationale": "Forests act like a sponge and absorb rainwater."
+  },
+  {
+    "question": "Which of the following helps in seed dispersal?",
+    "options": ["Animals", "Sunlight", "Rocks", "Air pollution"],
+    "correct": 0,
+    "rationale": "Animals carry seeds on their bodies or through droppings."
+  },
+  {
+    "question": "What is the forest floor mainly covered with?",
+    "options": ["Grass", "Cemented soil", "Decaying leaves and humus", "Only water"],
+    "correct": 2,
+    "rationale": "The forest floor contains dead leaves, twigs, and humus."
+  },
+  {
+    "question": "If forests disappear, the amount of CO₂ in the air will:",
+    "options": ["Decrease", "Increase", "Remain same", "Become zero"],
+    "correct": 1,
+    "rationale": "Trees absorb CO₂; without them CO₂ increases."
+  },
+  {
+    "question": "Which layer houses a wide variety of birds?",
+    "options": ["Forest floor", "Understorey", "Canopy", "Roots"],
+    "correct": 2,
+    "rationale": "Birds live on high branches forming the canopy."
+  },
+  {
+    "question": "What helps water to seep into the ground in forests?",
+    "options": ["Strong winds", "Concrete structures", "Root systems", "Fallen branches"],
+    "correct": 2,
+    "rationale": "Roots help water percolate and maintain the water table."
+  },
+  {
+    "question": "What is the main reason forests have high biodiversity?",
+    "options": ["Thick soil", "Multiple layers of vegetation", "Less sunlight", "Availability of stones"],
+    "correct": 1,
+    "rationale": "Different layers provide varied habitats."
+  },
+  {
+    "question": "Which animals help forests regenerate by dispersing seeds?",
+    "options": ["Tigers", "Vultures", "Deer", "Monkeys"],
+    "correct": 3,
+    "rationale": "Monkeys and other herbivores disperse seeds."
+  },
+  {
+    "question": "What do microorganisms produce after decomposition?",
+    "options": ["Mud", "Clay", "Humus", "Roots"],
+    "correct": 2,
+    "rationale": "Decomposition results in humus formation."
+  },
+  {
+    "question": "Forests influence the water cycle by:",
+    "options": ["Producing oil", "Releasing water vapour", "Reducing sunlight", "Increasing pollution"],
+    "correct": 1,
+    "rationale": "Trees release water vapour through transpiration."
+  },
+  {
+    "question": "What is deforestation?",
+    "options": ["Planting trees", "Large-scale cutting of trees", "Protecting forests", "Watering plants"],
+    "correct": 1,
+    "rationale": "Deforestation removes forest cover."
+  },
+  {
+    "question": "Which of the following supports forest animals with food and shelter?",
+    "options": ["Tall grasses and bushes", "Air", "Stones", "Rivers"],
+    "correct": 0,
+    "rationale": "Grasses and bushes provide habitat."
+  },
+  {
+    "question": "Why is there no waste in forests?",
+    "options": ["Animals clean it", "Trees absorb it", "Decomposers recycle everything", "Water washes it away"],
+    "correct": 2,
+    "rationale": "Decomposers convert waste into nutrients."
+  },
+  {
+    "question": "Which communities depend directly on forests?",
+    "options": ["Urban families", "Forest-dwelling tribes", "Factory workers", "Sailors"],
+    "correct": 1,
+    "rationale": "Many tribes rely on forests for daily needs."
+  },
+  {
+    "question": "Which among these is a forest tree?",
+    "options": ["Rose", "Teak", "Moss", "Tulip"],
+    "correct": 1,
+    "rationale": "Teak is a common forest timber tree."
+  },
+  {
+    "question": "Forests help maintain air quality by:",
+    "options": ["Creating dust", "Producing smoke", "Absorbing carbon dioxide", "Releasing nitrogen"],
+    "correct": 2,
+    "rationale": "They absorb CO₂ and release oxygen."
+  },
+  {
+    "question": "What happens to rainwater in forests?",
+    "options": ["It stagnates", "It is absorbed by soil", "It flows directly to drains", "It forms large puddles"],
+    "correct": 1,
+    "rationale": "Forests help water soak into the ground."
+  },
+  {
+    "question": "Which layer contains shrubs?",
+    "options": ["Understorey", "Canopy", "Forest floor", "Root layer"],
+    "correct": 0,
+    "rationale": "Shrubs form the understorey in forests."
+  },
+  {
+    "question": "Droppings of animals help forests because:",
+    "options": ["They attract predators", "They fertilise the soil", "They create noise", "They block sunlight"],
+    "correct": 1,
+    "rationale": "Droppings decompose into nutrients."
+  },
+  {
+    "question": "Animals give warning calls in forests to:",
+    "options": ["Invite others", "Alert others of danger", "Start fights", "Build nests"],
+    "correct": 1,
+    "rationale": "Animals warn each other of threats."
+  },
+  {
+    "question": "Which part of a forest slows down raindrops?",
+    "options": ["Roots", "Canopy", "Humus", "Rocks"],
+    "correct": 1,
+    "rationale": "The canopy blocks and slows rainwater."    
+  },
+  {
+    "question": "What makes forests dynamic living systems?",
+    "options": ["Stagnant soil", "Continuous interactions among organisms", "Constant sunlight", "Lack of water"],
+    "correct": 1,
+    "rationale": "Forests involve continuous interactions and changes."
+  }
+]
