@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What is reproduction?",
+    "options": ["Growth of an organism", "Production of new individuals from their parents", "Absorption of nutrients", "Movement of plants towards light"],
+    "correct": 1,
+    "rationale": "The production of new individuals from their parents is known as reproduction."
+  },
+  {
+    "question": "Which are the vegetative parts of a plant?",
+    "options": ["Flower, fruit and seed", "Roots, stems and leaves", "Pollen, ovule and embryo", "Stamen, pistil and petal"],
+    "correct": 1,
+    "rationale": "Roots, stems and leaves are called the vegetative parts of a plant."
+  },
+  {
+    "question": "What is the reproductive part of a flowering plant?",
+    "options": ["Root", "Stem", "Leaf", "Flower"],
+    "correct": 3,
+    "rationale": "Flowers perform the function of reproduction in plants and are the reproductive parts."
+  },
+  {
+    "question": "In asexual reproduction, new plants are obtained:",
+    "options": ["Only from seeds", "Without production of seeds", "From pollen grains only", "Through fertilisation"],
+    "correct": 1,
+    "rationale": "In asexual reproduction, new plants are obtained without the production of seeds."
+  },
+  {
+    "question": "What is vegetative propagation?",
+    "options": ["Reproduction through seeds", "A type of asexual reproduction using roots, stems, leaves and buds", "Transfer of pollen grains", "Fusion of gametes"],
+    "correct": 1,
+    "rationale": "Vegetative propagation is a type of asexual reproduction in which new plants are produced from roots, stems, leaves and buds."
+  },
+  {
+    "question": "The scars on a potato that contain buds are also called:",
+    "options": ["Nodes", "Eyes", "Axils", "Shoots"],
+    "correct": 1,
+    "rationale": "The scars on a potato that contain buds are also called 'eyes'."
+  },
+  {
+    "question": "Which plant reproduces through buds present in the margins of its leaves?",
+    "options": ["Rose", "Potato", "Bryophyllum", "Ginger"],
+    "correct": 2,
+    "rationale": "Bryophyllum (sprout leaf plant) has buds in the margins of leaves, each of which can grow into a new plant."
+  },
+  {
+    "question": "Which of the following plants can reproduce from its roots?",
+    "options": ["Rose", "Sugarcane", "Sweet potato", "Bryophyllum"],
+    "correct": 2,
+    "rationale": "Roots of some plants like sweet potato and dahlia can give rise to new plants."
+  },
+  {
+    "question": "What is an advantage of vegetative propagation?",
+    "options": ["Plants have more genetic variation", "Plants take longer to bear fruit", "Plants grow faster and bear flowers/fruits earlier than seed-grown plants", "Plants are weaker than seed-grown plants"],
+    "correct": 2,
+    "rationale": "Plants produced by vegetative propagation take less time to grow and bear flowers and fruits earlier than those produced from seeds."
+  },
+  {
+    "question": "What is budding?",
+    "options": ["Formation of spores in fungi", "A small bulb-like projection forming from yeast that grows into a new yeast cell", "Breaking of algae into fragments", "Transfer of pollen to stigma"],
+    "correct": 1,
+    "rationale": "In budding, a small bulb-like projection (bud) comes out from the yeast cell, grows, detaches, and forms a new yeast cell."
+  },
+  {
+    "question": "Which organism reproduces by budding?",
+    "options": ["Spirogyra", "Bread mould", "Yeast", "Fern"],
+    "correct": 2,
+    "rationale": "Yeast is a single-celled organism that reproduces by budding."
+  },
+  {
+    "question": "What is fragmentation?",
+    "options": ["Formation of spores", "Breaking of an organism into fragments, each growing into a new individual", "Fusion of gametes", "Growth of buds on leaves"],
+    "correct": 1,
+    "rationale": "In fragmentation, an alga breaks up into two or more fragments, and each fragment grows into a new individual."
+  },
+  {
+    "question": "Which organism reproduces by fragmentation?",
+    "options": ["Yeast", "Potato", "Spirogyra (an alga)", "Moss"],
+    "correct": 2,
+    "rationale": "Spirogyra and other algae reproduce by fragmentation."
+  },
+  {
+    "question": "What protects a spore from unfavourable conditions?",
+    "options": ["A waxy layer", "A hard protective coat", "A thick cell membrane", "Water content"],
+    "correct": 1,
+    "rationale": "Each spore is covered by a hard protective coat to withstand unfavourable conditions like high temperature and low humidity."
+  },
+  {
+    "question": "Which plants reproduce by means of spores?",
+    "options": ["Mango and rose", "Moss and ferns", "Potato and ginger", "Sugarcane and dahlia"],
+    "correct": 1,
+    "rationale": "Plants such as moss and ferns reproduce by means of spores."
+  },
+  {
+    "question": "What is the male reproductive part of a flower called?",
+    "options": ["Pistil", "Ovary", "Stamen", "Stigma"],
+    "correct": 2,
+    "rationale": "Stamens are the male reproductive part of a flower."
+  },
+  {
+    "question": "What is the female reproductive part of a flower called?",
+    "options": ["Stamen", "Anther", "Filament", "Pistil"],
+    "correct": 3,
+    "rationale": "Pistil is the female reproductive part of a flower."
+  },
+  {
+    "question": "Which part of the stamen contains pollen grains?",
+    "options": ["Filament", "Style", "Anther", "Stigma"],
+    "correct": 2,
+    "rationale": "The anther contains pollen grains which produce male gametes."
+  },
+  {
+    "question": "Where is the female gamete (egg) formed in a flower?",
+    "options": ["Anther", "Stigma", "Ovule", "Style"],
+    "correct": 2,
+    "rationale": "The female gamete or egg is formed in an ovule, which is contained in the ovary."
+  },
+  {
+    "question": "What are bisexual flowers?",
+    "options": ["Flowers that only have stamens", "Flowers that only have pistils", "Flowers that contain both stamens and pistil", "Flowers that have no reproductive parts"],
+    "correct": 2,
+    "rationale": "Flowers which contain both stamens and pistil are called bisexual flowers."
+  },
+  {
+    "question": "Which of the following produces unisexual flowers?",
+    "options": ["Mustard", "Rose", "Petunia", "Corn"],
+    "correct": 3,
+    "rationale": "Corn, papaya and cucumber produce unisexual flowers, whereas mustard, rose and petunia have bisexual flowers."
+  },
+  {
+    "question": "What is pollination?",
+    "options": ["Fusion of male and female gametes", "Transfer of pollen from anther to stigma of a flower", "Growth of pollen tube into ovary", "Formation of seeds from ovules"],
+    "correct": 1,
+    "rationale": "Pollination is the transfer of pollen grains from the anther to the stigma of the same or another flower."
+  },
+  {
+    "question": "What is self-pollination?",
+    "options": ["Pollen transfer from one plant to another of same kind", "Pollen landing on the stigma of the same flower or another flower on the same plant", "Pollen carried by insects to a different plant", "Pollen dispersed by wind to far places"],
+    "correct": 1,
+    "rationale": "When pollen lands on the stigma of the same flower or another flower of the same plant, it is called self-pollination."
+  },
+  {
+    "question": "What is fertilisation?",
+    "options": ["Transfer of pollen to stigma", "Germination of seeds", "Fusion of male and female gametes", "Formation of fruits from ovary"],
+    "correct": 2,
+    "rationale": "The process of fusion of male and female gametes is called fertilisation."
+  },
+  {
+    "question": "What is the cell formed after the fusion of male and female gametes called?",
+    "options": ["Embryo", "Spore", "Zygote", "Gamete"],
+    "correct": 2,
+    "rationale": "The cell which results after fusion of the gametes is called a zygote."
+  },
+  {
+    "question": "After fertilisation, what does the ovary develop into?",
+    "options": ["Seed", "Embryo", "Pollen", "Fruit"],
+    "correct": 3,
+    "rationale": "After fertilisation, the ovary grows into a fruit."
+  },
+  {
+    "question": "What do the ovules develop into after fertilisation?",
+    "options": ["Fruits", "Seeds", "Flowers", "Roots"],
+    "correct": 1,
+    "rationale": "The seeds develop from the ovules after fertilisation."
+  },
+  {
+    "question": "Which of the following seeds are dispersed by water?",
+    "options": ["Xanthium", "Maple", "Coconut", "Castor"],
+    "correct": 2,
+    "rationale": "Coconut seeds are dispersed by water; they develop a spongy or fibrous outer coat that helps them float."
+  },
+  {
+    "question": "Why is seed dispersal important for plants?",
+    "options": ["It helps flowers to bloom faster", "It prevents overcrowding and competition, and helps invade new habitats", "It increases the size of the fruit", "It helps attract more insects for pollination"],
+    "correct": 1,
+    "rationale": "Seed dispersal prevents competition between parent plant and its seedlings and enables plants to invade new habitats."
+  },
+  {
+    "question": "Which of the following fruits bursts with sudden jerks to disperse seeds?",
+    "options": ["Coconut", "Maple", "Xanthium", "Castor"],
+    "correct": 3,
+    "rationale": "In castor and balsam, seeds are dispersed when the fruits burst with sudden jerks, scattering seeds far away."
+  }
+]

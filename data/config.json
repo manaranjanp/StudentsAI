@@ -13,12 +13,28 @@
               "name": "Chapter 3: Motion and Time"
             },
             {
+              "id": "chapter4",
+              "name": "Chapter 4: Acids, Bases and Salts"
+            },              
+            {
               "id": "chapter7",
               "name": "Chapter 7: Transportation in Animals and Plants"
             },
             {
+              "id": "chapter8",
+              "name": "Chapter 8: Reproduction in Plants"
+            },              
+            {
               "id": "chapter12",
               "name": "Chapter 12: Forests - Our Lifeline"
+            },
+            {
+              "id": "chapter13",
+              "name": "Chapter 13: Wasterwater Story"
+            },                            
+            {
+              "id": "chapter14",
+              "name": "Chapter 14: Electric Currents and Effects"
             }
           ]
         }

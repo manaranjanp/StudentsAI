@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What is wastewater?",
+    "options": ["Fresh water from rivers", "Used water that has become dirty", "Rainwater collected in tanks", "Water stored in reservoirs"],
+    "correct": 1,
+    "rationale": "Wastewater is the used water from homes, industries, and other sources that has become dirty."
+  },
+  {
+    "question": "What is sewage?",
+    "options": ["Clean drinking water", "Only rainwater", "Wastewater released by homes, industries, hospitals, and offices", "Water treated in a plant"],
+    "correct": 2,
+    "rationale": "Sewage is wastewater released by homes, industries, hospitals, offices and other users, including rainwater runoff."
+  },
+  {
+    "question": "Which of the following is an organic impurity found in sewage?",
+    "options": ["Nitrates", "Phosphates", "Human faeces", "Metals"],
+    "correct": 2,
+    "rationale": "Human faeces is an organic impurity; nitrates, phosphates, and metals are inorganic impurities."
+  },
+  {
+    "question": "Which bacteria causes cholera?",
+    "options": ["Salmonella paratyphi", "Vibrio cholera", "Aerobic bacteria", "Protozones"],
+    "correct": 1,
+    "rationale": "Vibrio cholera is the bacteria responsible for causing cholera."
+  },
+  {
+    "question": "What is the network of pipes that carries sewage called?",
+    "options": ["Drainage", "Sewerage", "Waterway", "Pipeline"],
+    "correct": 1,
+    "rationale": "The network of big and small pipes carrying sewage is called sewerage."
+  },
+  {
+    "question": "At what intervals are manholes located in a sewerage system?",
+    "options": ["Every 10–20 m", "Every 50–60 m", "Every 100–200 m", "Every 5–10 m"],
+    "correct": 1,
+    "rationale": "Manholes are located at every 50 m to 60 m in the sewerage."
+  },
+  {
+    "question": "What is the first step in wastewater treatment at a WWTP?",
+    "options": ["Aeration", "Chlorination", "Passing through bar screens", "Sand filtration"],
+    "correct": 2,
+    "rationale": "Wastewater is first passed through bar screens to remove large objects like rags, sticks, cans, and plastic packets."
+  },
+  {
+    "question": "What is the purpose of the grit and sand removal tank?",
+    "options": ["To add chemicals to water", "To allow sand, grit, and pebbles to settle", "To aerate the water", "To remove bacteria"],
+    "correct": 1,
+    "rationale": "The speed of incoming wastewater is decreased in this tank to allow sand, grit, and pebbles to settle down."
+  },
+  {
+    "question": "What is the solid material that settles at the bottom of the clarifier tank called?",
+    "options": ["Humus", "Gravel", "Sludge", "Activated carbon"],
+    "correct": 2,
+    "rationale": "Solids like faeces that settle at the bottom are called sludge."
+  },
+  {
+    "question": "What is clarified water?",
+    "options": ["Water after chlorination", "Water from which floatable solids like oil and grease have been removed", "Water directly from rivers", "Groundwater"],
+    "correct": 1,
+    "rationale": "After a skimmer removes floatable solids like oil and grease, the water is called clarified water."
+  },
+  {
+    "question": "Why is air pumped into clarified water during treatment?",
+    "options": ["To cool the water", "To help aerobic bacteria grow and consume waste", "To remove salt", "To add oxygen for drinking"],
+    "correct": 1,
+    "rationale": "Air is pumped to help aerobic bacteria grow, which consume human waste, food waste, soaps and other matter."
+  },
+  {
+    "question": "What percentage of water does activated sludge contain?",
+    "options": ["50%", "75%", "97%", "100%"],
+    "correct": 2,
+    "rationale": "Activated sludge is about 97% water."
+  },
+  {
+    "question": "What is dried sludge used for?",
+    "options": ["Building material", "Fuel directly", "Manure", "Drinking water"],
+    "correct": 2,
+    "rationale": "Dried sludge is used as manure, returning organic matter and nutrients to the soil."
+  },
+  {
+    "question": "Which gas is produced when sludge is decomposed by anaerobic bacteria?",
+    "options": ["Oxygen", "Nitrogen", "Biogas", "Carbon dioxide"],
+    "correct": 2,
+    "rationale": "Anaerobic bacteria decompose sludge and produce biogas, which can be used as fuel or to produce electricity."
+  },
+  {
+    "question": "Which chemicals can be used to disinfect treated water before releasing it?",
+    "options": ["Salt and vinegar", "Chlorine and ozone", "Baking soda and lime", "Bleach and acid"],
+    "correct": 1,
+    "rationale": "Chlorine and ozone are used to disinfect water before it is released into the distribution system."
+  },
+  {
+    "question": "Why should cooking oil and fats NOT be thrown down the drain?",
+    "options": ["They make water taste bad", "They can harden and block pipes and clog soil pores", "They are expensive", "They attract animals"],
+    "correct": 1,
+    "rationale": "Fats harden and block pipes, and in open drains they clog soil pores, reducing the soil's ability to filter water."
+  },
+  {
+    "question": "Which of the following should NOT be thrown down the drain?",
+    "options": ["Soap water", "Chemicals like paints and insecticides", "Plain water", "Diluted detergent"],
+    "correct": 1,
+    "rationale": "Chemicals like paints, solvents, insecticides, and medicines can kill microbes that help purify water."
+  },
+  {
+    "question": "What disease is caused by Salmonella paratyphi?",
+    "options": ["Cholera", "Dysentery", "Typhoid", "Polio"],
+    "correct": 2,
+    "rationale": "Salmonella paratyphi causes typhoid."
+  },
+  {
+    "question": "Which microorganism causes dysentery?",
+    "options": ["Vibrio cholera", "Protozones", "Aerobic bacteria", "Salmonella"],
+    "correct": 1,
+    "rationale": "Protozones (protozoa) cause dysentery."
+  },
+  {
+    "question": "Untreated human excreta can cause pollution of:",
+    "options": ["Only surface water", "Only groundwater", "Both surface water and groundwater", "Only air"],
+    "correct": 2,
+    "rationale": "Untreated human excreta may cause both water pollution and soil pollution, affecting surface water and groundwater."
+  },
+  {
+    "question": "Which of the following is a waterborne disease?",
+    "options": ["Malaria", "Dengue", "Hepatitis", "Asthma"],
+    "correct": 2,
+    "rationale": "Hepatitis is a waterborne disease along with cholera, typhoid, polio, meningitis, and dysentery."
+  },
+  {
+    "question": "Which of the following is a low-cost onsite sewage disposal system?",
+    "options": ["WWTP", "Septic tank", "Open drain", "Bar screen"],
+    "correct": 1,
+    "rationale": "Septic tanks are a low-cost onsite sewage disposal system suitable where no sewerage exists."
+  },
+  {
+    "question": "What is a vermi-processing toilet?",
+    "options": ["A toilet with high water use", "A toilet where human excreta is treated by earthworms", "A chemical toilet", "A toilet connected to biogas plant"],
+    "correct": 1,
+    "rationale": "A vermi-processing toilet treats human excreta using earthworms, converting it into vermi cakes useful for soil."
+  },
+  {
+    "question": "What does a skimmer remove from wastewater?",
+    "options": ["Sand and grit", "Floatable solids like oil and grease", "Bacteria", "Large solid objects"],
+    "correct": 1,
+    "rationale": "A skimmer removes floatable solids like oil and grease from the surface of the settling tank."
+  },
+  {
+    "question": "In which year did the Government of India launch the Swachh Bharat mission?",
+    "options": ["2010", "2014", "2016", "2020"],
+    "correct": 2,
+    "rationale": "In 2016, the Government of India initiated the Swachh Bharat mission for proper sewage disposal and providing toilets."
+  },
+  {
+    "question": "Which ancient civilisation had one of the world's first urban sanitation systems?",
+    "options": ["Roman civilisation", "Egyptian civilisation", "Harappa and Mohenjodaro", "Greek civilisation"],
+    "correct": 2,
+    "rationale": "Harappa and Mohenjodaro (Indus Valley Civilisation) had perhaps the world's first urban sanitation system."
+  },
+  {
+    "question": "What happens to used tealeaves and solid food remains?",
+    "options": ["They should be put down the drain", "They should be thrown in the dustbin", "They dissolve in water", "They help clean pipes"],
+    "correct": 1,
+    "rationale": "Used tealeaves and solid food remains should be thrown in the dustbin as they choke drains and hamper degradation."
+  },
+  {
+    "question": "Which tree has been suggested to be planted along sewage ponds?",
+    "options": ["Neem", "Banyan", "Eucalyptus", "Teak"],
+    "correct": 2,
+    "rationale": "Eucalyptus trees absorb surplus wastewater rapidly and release pure water vapour into the atmosphere."
+  },
+  {
+    "question": "What are the by-products of wastewater treatment?",
+    "options": ["Clean water and oxygen", "Sludge and biogas", "Salt and sand", "Nitrates and phosphates"],
+    "correct": 1,
+    "rationale": "The by-products of wastewater treatment are sludge and biogas."
+  },
+  {
+    "question": "Which of the following statements about ozone is correct?",
+    "options": ["It is used to disinfect water and absorbs ultraviolet rays", "It makes up 3% of air", "It is essential for breathing", "It is produced during aeration"],
+    "correct": 0,
+    "rationale": "Ozone is used to disinfect water and absorbs ultraviolet rays — these are the two correct statements from the chapter."
+  }
+]

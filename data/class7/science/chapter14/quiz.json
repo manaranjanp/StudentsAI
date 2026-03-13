@@ -1,0 +1,182 @@
+[
+  {
+    "question": "In the symbol of an electric cell, what does the longer line represent?",
+    "options": ["Negative terminal", "Positive terminal", "Switch", "Wire"],
+    "correct": 1,
+    "rationale": "In the symbol of the electric cell, the longer line represents the positive terminal and the shorter, thicker line represents the negative terminal."
+  },
+  {
+    "question": "What is a battery?",
+    "options": ["A single electric cell", "A combination of two or more cells connected together", "A type of electric switch", "A wire used in circuits"],
+    "correct": 1,
+    "rationale": "A combination of two or more cells connected together is called a battery."
+  },
+  {
+    "question": "How must cells be connected to form a battery?",
+    "options": ["Positive terminal of one cell to the positive terminal of the next", "Negative terminal of one cell to the negative terminal of the next", "Positive terminal of one cell to the negative terminal of the next", "In any random order"],
+    "correct": 2,
+    "rationale": "The positive terminal of one cell must be connected to the negative terminal of the next cell to form a battery."
+  },
+  {
+    "question": "When is an electric circuit said to be closed?",
+    "options": ["When the switch is in the OFF position", "When the filament is broken", "When the switch is in the ON position and current flows throughout", "When no current flows"],
+    "correct": 2,
+    "rationale": "When the switch is in the ON position, the circuit from positive to negative terminal is complete and is said to be closed."
+  },
+  {
+    "question": "What is the thin wire inside an electric bulb called?",
+    "options": ["Element", "Filament", "Coil", "Conductor"],
+    "correct": 1,
+    "rationale": "The thin wire inside an electric bulb is called the filament. It glows when electric current passes through it."
+  },
+  {
+    "question": "What happens to the filament of a bulb when it gets fused?",
+    "options": ["It becomes thicker", "It glows brighter", "It breaks", "It changes colour"],
+    "correct": 2,
+    "rationale": "When the bulb gets fused, its filament is broken, and the circuit becomes incomplete."
+  },
+  {
+    "question": "What is the heating effect of electric current?",
+    "options": ["A wire cools down when current flows", "A wire gets hot when electric current passes through it", "Current produces light without heat", "Wires lose their resistance when heated"],
+    "correct": 1,
+    "rationale": "When electric current passes through a wire, the wire gets hot. This is called the heating effect of electric current."
+  },
+  {
+    "question": "On what factors does the amount of heat produced in a wire depend?",
+    "options": ["Colour and shape of the wire", "Material, length, and thickness of the wire", "Only the length of the wire", "The colour of insulation"],
+    "correct": 1,
+    "rationale": "The amount of heat produced in a wire depends on its material, length, and thickness."
+  },
+  {
+    "question": "What is the coil of wire inside electric appliances like heaters and irons called?",
+    "options": ["Filament", "Fuse", "Element", "Electromagnet"],
+    "correct": 2,
+    "rationale": "The coil of wire inside electric appliances like room heaters and electric irons is called an element."
+  },
+  {
+    "question": "Which of the following is an application of the heating effect of electric current?",
+    "options": ["Electric fan", "Electric bell", "Electric iron", "Compass needle"],
+    "correct": 2,
+    "rationale": "Electric iron uses the heating effect of electric current; its element heats up when current flows through it."
+  },
+  {
+    "question": "Which type of electric bulb is the most electricity efficient?",
+    "options": ["Incandescent bulb", "Fluorescent tube", "CFL", "LED bulb"],
+    "correct": 3,
+    "rationale": "LED bulbs consume the least electricity to produce a given intensity of light and are the most electricity efficient."
+  },
+  {
+    "question": "Why are incandescent bulbs considered less efficient?",
+    "options": ["They produce too much light", "They consume electricity to produce both light and unwanted heat", "They do not last long", "They require very high voltage"],
+    "correct": 1,
+    "rationale": "Incandescent bulbs produce both light and heat; the heat produced is wasted electricity, making them less efficient."
+  },
+  {
+    "question": "What is a short circuit?",
+    "options": ["A very short wire in the circuit", "Direct touching of wires due to worn insulation causing excessive current", "A circuit with only one cell", "A circuit with no switch"],
+    "correct": 1,
+    "rationale": "A short circuit occurs when the insulation on wires wears off and the wires touch directly, causing excessive current to flow."
+  },
+  {
+    "question": "What can happen if too many devices are connected to a single socket?",
+    "options": ["Voltage increases", "Overload in the circuit", "Current decreases", "No change occurs"],
+    "correct": 1,
+    "rationale": "Connecting many devices to a single socket may cause overload in the circuit, which can cause fires."
+  },
+  {
+    "question": "What is an electric fuse?",
+    "options": ["A device that stores electricity", "A safety device made of a wire that melts and breaks when current exceeds a safe limit", "A device that increases voltage", "A type of switch"],
+    "correct": 1,
+    "rationale": "An electric fuse is a safety device made of wire that melts and breaks the circuit when current exceeds the safe limit, preventing fires and damage."
+  },
+  {
+    "question": "What are MCBs used for?",
+    "options": ["To measure current", "To store electrical energy", "To automatically switch off when current exceeds safe limits, replacing fuses", "To increase the brightness of bulbs"],
+    "correct": 2,
+    "rationale": "Miniature Circuit Breakers (MCBs) are switches that automatically turn off when current in a circuit exceeds the safe limit. They are increasingly used in place of fuses."
+  },
+  {
+    "question": "Who first noticed that a compass needle deflects when current passes through a nearby wire?",
+    "options": ["Thomas Edison", "Hans Christian Oersted", "Michael Faraday", "Isaac Newton"],
+    "correct": 1,
+    "rationale": "Hans Christian Oersted (1777–1851) was the first person to notice the deflection of a compass needle every time current was passed through a wire."
+  },
+  {
+    "question": "What is the magnetic effect of electric current?",
+    "options": ["Current produces heat in a wire", "A current-carrying wire behaves like a magnet", "Current makes a bulb glow", "Current charges a battery"],
+    "correct": 1,
+    "rationale": "When electric current passes through a wire, it behaves like a magnet. This is the magnetic effect of electric current."
+  },
+  {
+    "question": "What is an electromagnet?",
+    "options": ["A permanent magnet made of iron", "A current-carrying coil of insulated wire wrapped around a piece of iron", "A magnet used only in compasses", "A wire that produces heat"],
+    "correct": 1,
+    "rationale": "A current-carrying coil of insulated wire wrapped around a piece of iron is called an electromagnet."
+  },
+  {
+    "question": "What happens to an electromagnet when the electric current is switched off?",
+    "options": ["It becomes a permanent magnet", "It generally loses its magnetism", "It becomes stronger", "It starts producing heat"],
+    "correct": 1,
+    "rationale": "When the electric current is switched off, the coil generally loses its magnetism."
+  },
+  {
+    "question": "Which of the following is NOT a use of electromagnets?",
+    "options": ["Cranes for lifting heavy magnetic loads", "Separating magnetic material from junk", "Doctors removing magnetic particles from eyes", "Measuring temperature"],
+    "correct": 3,
+    "rationale": "Electromagnets are used in cranes, separating magnetic materials, and medical purposes — not for measuring temperature."
+  },
+  {
+    "question": "What component of an electric bell makes it ring?",
+    "options": ["A battery only", "An electromagnet", "A fuse", "A filament"],
+    "correct": 1,
+    "rationale": "An electric bell contains an electromagnet. When current flows, the electromagnet pulls an iron strip whose hammer strikes the gong to produce sound."
+  },
+  {
+    "question": "Why does the hammer in an electric bell keep striking the gong repeatedly?",
+    "options": ["The battery keeps reversing current", "The electromagnet continuously attracts and releases the iron strip by making and breaking the circuit", "The bell has a motor inside", "The spring keeps pushing the hammer"],
+    "correct": 1,
+    "rationale": "The electromagnet attracts the iron strip (breaking the circuit), loses magnetism, then the strip returns and completes the circuit again — this cycle repeats rapidly."
+  },
+  {
+    "question": "What standard mark on electrical products assures conformity to specifications in India?",
+    "options": ["BIS mark", "ISI mark", "ISO mark", "IEC mark"],
+    "correct": 1,
+    "rationale": "The Bureau of Indian Standards assigns the ISI mark on products, which is an assurance of conformity to the product's specifications."
+  },
+  {
+    "question": "A circuit is said to be open when:",
+    "options": ["Current flows through it", "The switch is in the ON position", "The switch is in the OFF position and no current flows", "The battery is fully charged"],
+    "correct": 2,
+    "rationale": "When the switch is in the OFF position, the circuit is incomplete. It is said to be open, and no current flows through any part of the circuit."
+  },
+  {
+    "question": "Which material is used to make electric fuse wires?",
+    "options": ["Copper or gold", "Special materials that melt quickly when large currents pass through them", "Iron or steel", "Rubber or plastic"],
+    "correct": 1,
+    "rationale": "Fuse wires are made from special materials that melt quickly and break when large electric currents are passed through them."
+  },
+  {
+    "question": "Why should fluorescent tubes and CFLs be disposed of carefully?",
+    "options": ["They contain lead which is toxic", "They contain mercury vapour which is toxic", "They are radioactive", "They can explode if broken"],
+    "correct": 1,
+    "rationale": "Fluorescent tubes and CFLs contain mercury vapour, which is toxic in nature, and therefore need to be disposed of safely."
+  },
+  {
+    "question": "What does the symbol of a battery look like?",
+    "options": ["A single long line and a short thick line", "Multiple alternating long and short lines", "A circle with a cross inside", "A zigzag line"],
+    "correct": 1,
+    "rationale": "The symbol of a battery consists of multiple alternating long and short lines, representing the combination of multiple cells."
+  },
+  {
+    "question": "Why should we never use just any wire in place of a fuse?",
+    "options": ["Because ordinary wire is expensive", "Because ordinary wire may not melt at the correct current limit, failing to protect the circuit", "Because ordinary wire conducts electricity too slowly", "Because fuses are cheaper than ordinary wire"],
+    "correct": 1,
+    "rationale": "A fuse wire is made of a specific material that melts at the correct current limit. Using ordinary wire may not provide protection, risking fires and damage."
+  },
+  {
+    "question": "What happens to the compass needle when current flows through a nearby wire?",
+    "options": ["Nothing happens to the compass needle", "The compass needle gets deflected from its north-south position", "The compass needle spins continuously", "The compass needle points east-west"],
+    "correct": 1,
+    "rationale": "When current flows through a wire, the wire behaves like a magnet and deflects the compass needle from its north-south position."
+  }
+]

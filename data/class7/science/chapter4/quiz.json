@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What is the taste of acids?",
+    "options": ["Bitter", "Sour", "Sweet", "Salty"],
+    "correct": 1,
+    "rationale": "Acids taste sour. The word 'acid' comes from the Latin word 'acere' which means sour."
+  },
+  {
+    "question": "What is the taste of bases?",
+    "options": ["Sour", "Sweet", "Bitter and soapy", "Salty"],
+    "correct": 2,
+    "rationale": "Bases are bitter in taste and feel soapy on touching."
+  },
+  {
+    "question": "From which source is litmus extracted?",
+    "options": ["Roses", "Turmeric", "Lichens", "China rose"],
+    "correct": 2,
+    "rationale": "Litmus is a natural dye extracted from lichens."
+  },
+  {
+    "question": "What colour does litmus have in distilled water?",
+    "options": ["Red", "Blue", "Yellow", "Mauve (purple)"],
+    "correct": 3,
+    "rationale": "Litmus has a mauve (purple) colour in distilled water."
+  },
+  {
+    "question": "What colour does litmus turn in an acidic solution?",
+    "options": ["Blue", "Red", "Yellow", "Green"],
+    "correct": 1,
+    "rationale": "Litmus turns red when added to an acidic solution."
+  },
+  {
+    "question": "What colour does litmus turn in a basic solution?",
+    "options": ["Red", "Yellow", "Blue", "Pink"],
+    "correct": 2,
+    "rationale": "Litmus turns blue when added to a basic solution."
+  },
+  {
+    "question": "Which of the following is a naturally occurring indicator?",
+    "options": ["Phenolphthalein", "Methyl orange", "Turmeric", "Universal indicator"],
+    "correct": 2,
+    "rationale": "Turmeric, litmus, and China rose petals are naturally occurring indicators."
+  },
+  {
+    "question": "What acid is found in vinegar?",
+    "options": ["Citric acid", "Lactic acid", "Acetic acid", "Oxalic acid"],
+    "correct": 2,
+    "rationale": "Acetic acid is found in vinegar."
+  },
+  {
+    "question": "Which acid is found in curd?",
+    "options": ["Acetic acid", "Lactic acid", "Tartaric acid", "Formic acid"],
+    "correct": 1,
+    "rationale": "Lactic acid is found in curd."
+  },
+  {
+    "question": "Which acid is found in an ant's sting?",
+    "options": ["Acetic acid", "Citric acid", "Formic acid", "Oxalic acid"],
+    "correct": 2,
+    "rationale": "Formic acid is injected by an ant when it bites or stings."
+  },
+  {
+    "question": "Where is tartaric acid found?",
+    "options": ["Spinach", "Curd", "Tamarind, grapes, unripe mangoes", "Amla"],
+    "correct": 2,
+    "rationale": "Tartaric acid is found in tamarind, grapes, and unripe mangoes."
+  },
+  {
+    "question": "Which base is found in milk of magnesia?",
+    "options": ["Calcium hydroxide", "Ammonium hydroxide", "Magnesium hydroxide", "Sodium hydroxide"],
+    "correct": 2,
+    "rationale": "Milk of magnesia contains magnesium hydroxide."
+  },
+  {
+    "question": "What colour does China rose indicator turn in an acidic solution?",
+    "options": ["Green", "Blue", "Dark pink (magenta)", "Yellow"],
+    "correct": 2,
+    "rationale": "China rose indicator turns acidic solutions dark pink (magenta)."
+  },
+  {
+    "question": "What colour does China rose indicator turn in a basic solution?",
+    "options": ["Red", "Green", "Blue", "Pink"],
+    "correct": 1,
+    "rationale": "China rose indicator turns basic solutions green."
+  },
+  {
+    "question": "What are neutral solutions?",
+    "options": ["Solutions that turn litmus red", "Solutions that turn litmus blue", "Solutions that do not change the colour of either red or blue litmus", "Solutions that are always transparent"],
+    "correct": 2,
+    "rationale": "Neutral solutions neither change red litmus to blue nor blue litmus to red. They are neither acidic nor basic."
+  },
+  {
+    "question": "What colour does phenolphthalein show in a basic solution?",
+    "options": ["Red", "Blue", "Colourless", "Pink"],
+    "correct": 3,
+    "rationale": "Phenolphthalein gives a pink colour in basic solutions."
+  },
+  {
+    "question": "What colour does phenolphthalein show in an acidic solution?",
+    "options": ["Pink", "Red", "Colourless", "Blue"],
+    "correct": 2,
+    "rationale": "Phenolphthalein remains colourless in acidic solutions."
+  },
+  {
+    "question": "What is produced when an acid reacts with a base?",
+    "options": ["Only water", "Only salt", "Salt and water", "Gas and water"],
+    "correct": 2,
+    "rationale": "The neutralisation reaction between an acid and a base produces salt and water, along with heat."
+  },
+  {
+    "question": "What is the reaction between an acid and a base called?",
+    "options": ["Oxidation", "Neutralisation", "Decomposition", "Combustion"],
+    "correct": 1,
+    "rationale": "The reaction between an acid and a base is called neutralisation."
+  },
+  {
+    "question": "What is produced in a neutralisation reaction besides salt and water?",
+    "options": ["Light", "Heat", "Sound", "Gas"],
+    "correct": 1,
+    "rationale": "Heat is always produced (evolved) in a neutralisation reaction."
+  },
+  {
+    "question": "Which acid does our stomach produce to help digest food?",
+    "options": ["Sulphuric acid", "Citric acid", "Hydrochloric acid", "Acetic acid"],
+    "correct": 2,
+    "rationale": "Our stomach contains hydrochloric acid, which helps in digestion."
+  },
+  {
+    "question": "What is taken to relieve indigestion caused by excess acid in the stomach?",
+    "options": ["More acid", "An antacid like milk of magnesia", "Common salt", "Lemon juice"],
+    "correct": 1,
+    "rationale": "An antacid such as milk of magnesia (magnesium hydroxide) neutralises the excess acid in the stomach."
+  },
+  {
+    "question": "What acid is injected by an ant when it bites?",
+    "options": ["Acetic acid", "Oxalic acid", "Lactic acid", "Formic acid"],
+    "correct": 3,
+    "rationale": "An ant injects formic acid into the skin when it bites."
+  },
+  {
+    "question": "What should be applied on the skin after an ant bite to neutralise the acid?",
+    "options": ["Lemon juice", "Vinegar", "Moist baking soda or calamine solution", "Soap solution"],
+    "correct": 2,
+    "rationale": "Moist baking soda (sodium hydrogencarbonate) or calamine solution (zinc carbonate) neutralises the formic acid from an ant bite."
+  },
+  {
+    "question": "What is used to treat acidic soil?",
+    "options": ["Compost", "Quick lime or slaked lime", "Vinegar", "More fertilisers"],
+    "correct": 1,
+    "rationale": "Acidic soil is treated with bases like quick lime (calcium oxide) or slaked lime (calcium hydroxide)."
+  },
+  {
+    "question": "What is added to basic soil to neutralise it?",
+    "options": ["Lime", "Salt", "Organic matter (compost)", "Baking soda"],
+    "correct": 2,
+    "rationale": "Organic matter (compost) is added to basic soil; it releases acids that neutralise the basic nature."
+  },
+  {
+    "question": "Why must factory waste containing acids be neutralised before releasing into water bodies?",
+    "options": ["To make it taste better", "To prevent it from killing fish and other organisms", "To reduce its volume", "To make it colourless"],
+    "correct": 1,
+    "rationale": "Acidic factory waste can kill fish and other organisms in water bodies, so it must be neutralised with basic substances first."
+  },
+  {
+    "question": "Which of the following is the correct neutralisation reaction?",
+    "options": ["Acid + Base → Gas + Water", "Acid + Base → Salt + Water + Heat", "Acid + Salt → Base + Water", "Base + Salt → Acid + Water"],
+    "correct": 1,
+    "rationale": "Acid + Base → Salt + Water (with heat evolved) is the correct neutralisation equation."
+  },
+  {
+    "question": "Ascorbic acid (Vitamin C) is found in which of the following?",
+    "options": ["Spinach", "Curd", "Amla and citrus fruits", "Tamarind"],
+    "correct": 2,
+    "rationale": "Ascorbic acid (Vitamin C) is found in amla and citrus fruits."
+  },
+  {
+    "question": "Which of the following statements about indicators is correct?",
+    "options": ["They change colour only in acidic solutions", "They change colour only in basic solutions", "They show different colours in acidic, basic and neutral solutions", "They change colour only in neutral solutions"],
+    "correct": 2,
+    "rationale": "Indicators show different colours depending on whether a solution is acidic, basic, or neutral."
+  }
+]
